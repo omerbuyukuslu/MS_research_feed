@@ -94,7 +94,6 @@ def fetch_details_from_crossref(doi, journal_name=None):
     url = f'https://api.crossref.org/works/{doi}'
     load_dotenv()
     headers = {'User-Agent': os.getenv('USER_AGENT')}
-    #headers = {'User-Agent': 'AMaterialisticBot/0.1 (mailto:omerbuyukuslu@gmail.com)'}
     response = requests.get(url, headers=headers)
     
     if response.status_code == 200:

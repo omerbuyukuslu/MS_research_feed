@@ -1,6 +1,6 @@
 # **Materials Science Research Feed**
 
-#### Video Demo: [<URL HERE>](#)
+#### Video Demo: [<URL NOT YET AVAILABLE>](#)
 
 #### Description:  
 Materials Science Research Feed is a web-based platform designed to help material scientists stay up to date with recent publications in the field. Instead of visiting individual journal websites, this platform fetches **recent articles** from **23 high impact journals** and stores up to 30 days in materials science. Journals that are published older than 30 days will be deleted per database update. The tool focuses on improving productivity by reducing the time scientists spend searching for articles, while focusing on only the most recent articles.  
@@ -71,7 +71,7 @@ Materials Science Research Feed is a web-based platform designed to help materia
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/omerbuyukuslu/MS_research_feed.git
    cd ms-research-feed
    ```
 
@@ -134,23 +134,18 @@ Materials Science Research Feed is a web-based platform designed to help materia
 ## **Project Outcomes**
 
 1. **Good Outcome**:  
-   - Fetch and display recent articles from 20 journals.  
+   - Fetch and display recent articles from 23 journals.  
    - Basic search and display functionality works smoothly.  
 
 2. **Better Outcome**:  
-   - Implement real-time feedback during updates.  
+   - Implement real-time feedback during updates.
+   - Allow users to create accounts with email and password.
    - Add error handling for failed API requests or incomplete data.  
 
 3. **Best Outcome**:  
    - Expand the platform to include more journals.  
    - Add user accounts to allow saved articles or custom preferences.  
    - Deploy the application for global access.  
-
----
-
-## **Contributors**  
-- **Name**: [Your Name]  
-- **Email**: [Your Email]  
 
 ---
 

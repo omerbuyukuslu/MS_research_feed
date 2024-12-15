@@ -1,2 +1,8 @@
 venv/
 pyscripts/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+*.log
