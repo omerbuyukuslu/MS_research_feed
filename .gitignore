@@ -7,4 +7,6 @@ __pycache__/
 .idea/
 *.log
 node_modules/
-.db
+*.db
+*.sqlite3
+db-data/
