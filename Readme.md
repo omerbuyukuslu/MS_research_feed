@@ -3,7 +3,7 @@
 #### Video Demo: [https://youtu.be/HDiuMAl6NS8](https://youtu.be/HDiuMAl6NS8)
 
 #### Description:  
-Materials Science Research Feed is a web-based platform designed to help material scientists stay up to date with recent publications in the field. Instead of visiting individual journal websites, this platform fetches **recent articles** from **23 high-impact journals** and stores them for up to 30 days. Articles older than 30 days are automatically deleted from the database. The tool focuses on reducing the time spent searching for articles daily while ensuring users stay current with the most recent publications.  
+Materials Science Research Feed is a web-based platform designed to help material scientists stay up to date with recent publications in the field. This platform fetches **recent articles** from **23 high-impact journals** and stores them for up to 30 days. Articles older than 30 days are automatically deleted from the database. The tool focuses on reducing the time spent searching for articles daily while ensuring users stay current with the most recent publications.  
 
 **Key Features:**  
 - **Fetch Recent Articles**:  
